@@ -1,44 +1,59 @@
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
 
-I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+# Hi, I'm Kaung Myat Paing 👋
 
-Here's a list of things I currently keep myself busy with:
+I'm a web developer passionate about software development and artificial intelligence. I recently completed my master's degree and am currently open to work.
 
-- 👩🏻‍💻 Working as a software engineer over at **[Rounded](https://rounded.io)**
-- ☀️ Maintaining **[Letra](https://github.com/jayehernandez/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
+Here are some things I enjoy:
+
+- 💻 Building web applications and experimenting with new technologies
+- 🤖 Exploring artificial intelligence and AI-powered applications
+- ♟️ Playing chess
+- 🎬 Watching movies
+- ⚽ Playing and watching football
+- 🎱 Playing snooker and pool
+- 🎮 Playing Dota 2
+
+## Featured Projects
+
+- **[PDF Summarization](https://github.com/Kaung-myat-paing/PDF-Summarization)**  
+  An application for extracting and summarizing content from PDF documents.
+
+- **[Real-Time AI Streaming Interface](https://github.com/Kaung-myat-paing/Real-Time-AI-Streaming-Interface)**  
+  A prototype focused on delivering streamed AI responses with a responsive user experience.
+
+- **[Digital Love Letter](https://github.com/Kaung-myat-paing/digital-love-letter)**  
+  A SaaS-style application for creating password-protected love letters and sharing them through unique links.
 
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  <summary>Some other facts about me</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
 
-  - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
-  
+  - I enjoy playing chess and Dota 2.
+  - I like watching movies in my free time.
+  - I enjoy sports, especially football, snooker, and pool.
+  - I am always interested in learning new technologies and improving my development skills.
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true&theme=nord)
-  <br><br>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaung-myat-paing&show_icons=true&theme=nord)
+
 </details>
 
 <hr>
+
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
-  <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-
-  <p align="center">
-    <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=jayehernandez.jayehernandez">
-    </a>
-  </p>
+  <i>I'm open to work and always happy to connect.</i>
 </p>
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<p align="center">
+  <a href="https://github.com/Kaung-myat-code" alt="GitHub">
+    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/kmpeg" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg">
+  </a>
+  <a href="mailto:kmyat5258@gmail.com" alt="Email">
+    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg">
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="Bottom">
